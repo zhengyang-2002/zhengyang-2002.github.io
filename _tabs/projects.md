@@ -1,5 +1,5 @@
 ---
-icon: fa-tools
+icon: fas fa-tools
 order: 5
 ---
 
