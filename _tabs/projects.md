@@ -1,6 +1,6 @@
 ---
-icon: fas fa-blog
-order: 4
+icon: fa-tools
+order: 5
 ---
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
