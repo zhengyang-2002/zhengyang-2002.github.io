@@ -224,10 +224,10 @@ exclude:
 
 
 jekyll-archives:
-  enabled: [blogs, tags]
+  enabled: [categories, tags]
   layouts:
-    blogs: category
+    category: category
     tag: tag
   permalinks:
     tag: /tags/:name/
-    blogs: /blogs/:name/
+    category: /categories/:name/
