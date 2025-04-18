@@ -32,8 +32,8 @@ baseurl: ""
 github:
   username: zhengyang-2002 # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+#  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -220,11 +220,13 @@ exclude:
   - rollup.config.js
   - "package*.json"
 
+#这地方好像是在使用jekyll提供的归档功能
+
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [category]
   layouts:
     category: category
-    tag: tag
+    #tag: tag
   permalinks:
-    tag: /tags/:name/
+    #tag: /tags/:name/
     category: /categories/:name/
