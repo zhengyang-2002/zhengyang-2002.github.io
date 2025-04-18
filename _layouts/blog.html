@@ -1,6 +1,6 @@
 ---
 layout: page
-# All the Categories of posts (Customized for /blogs/)
+# All the Categories of posts
 ---
 
 {% include lang.html %}
@@ -11,11 +11,6 @@ layout: page
 {% assign group_index = 0 %}
 
 {% assign sort_categories = site.categories | sort %}
-
-{%- comment -%}
-  Use `page.category_base`, fallback to `site.category_base`, fallback to 'categories'
-{%- endcomment -%}
-{% assign category_base = page.category_base | default: site.category_base | default: 'categories' %}
 
 {% for category in sort_categories %}
   {% assign category_name = category | first %}
