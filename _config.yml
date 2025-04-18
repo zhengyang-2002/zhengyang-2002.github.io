@@ -225,7 +225,7 @@ exclude:
 category_base: blogs
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [blogs, tags]
   layouts:
     category: blog   
     tag: tag
