@@ -222,11 +222,10 @@ exclude:
 
 #这地方好像是在使用jekyll提供的归档功能
 
+
 jekyll-archives:
-  enabled: [category]
+  enabled: [categories] 
   layouts:
-    category: category
-    #tag: tag
+    category: categories   # 👉 使用categories.html`
   permalinks:
-    #tag: /tags/:name/
-    category: /categories/:name/
+    category: /blogs/:name/  # 👉 改下url，并且手动在title这边修改名字（为blogs）就行
