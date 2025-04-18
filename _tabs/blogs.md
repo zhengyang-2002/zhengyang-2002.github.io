@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: 分类
+title: Blogs
 icon: fas fa-folder-open
 order: 2
 ---
