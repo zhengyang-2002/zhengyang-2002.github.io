@@ -1,5 +1,6 @@
 ---
 layout: categories
 icon: fas fa-folder-open
-order: 2
+title: Blog
+order: 3
 ---
