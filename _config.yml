@@ -231,4 +231,4 @@ jekyll-archives:
     tag: tag
   permalinks:
     tag: /tags/:name/
-    category: /category/:name/
+    category: /categories/:name/
