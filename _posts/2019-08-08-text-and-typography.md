@@ -1,10 +1,10 @@
 ---
-title: ？？？！
-description: Learn how to customize the favicon of your site.
+title: 4k
+description: nihaoma
 author: your-name
-date: 2024-01-01 10:00:00 +0800
-categories: [skt, io990]
-tags: [favicon, getting-started]
+date: 2024-02-01 10:00:00 +0800
+categories: [skt, qaq]
+tags: [321, 123]
 pin: true
 ---
 
