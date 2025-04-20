@@ -222,12 +222,12 @@ exclude:
 
 #这地方好像是在使用jekyll提供的归档功能
 
-category_base: blogs
+#category_base: blogs
 
 jekyll-archives:
-  enabled: [blogs, tags]
+  enabled: [categories, tags]
   layouts:
-    category: blog   
+    category: blog
     tag: tag
   permalinks:
     category: /blogs/:name/
