@@ -1,8 +1,8 @@
 ---
-title: Attention
+title: Bahdanau Attention
 date: 2025-04-22 10:00:00 +0800
 categories: [Paper Reading, Replicating]
-tags: [Replicate, sequence]
+tags: [Replicate, Sequence, Attention, Paper_with_Code]
 math: true
 ---
 
