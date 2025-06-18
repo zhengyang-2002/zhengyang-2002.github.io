@@ -1,5 +1,5 @@
 ---
-title: After the Rain: The Snail Crisis
+title: The Snail Crisis
 date: 2023-09-01 10:00:00 +0800
 categories: [Paper Reading, Replicating]
 tags: [Replicate, Sequence, Paper_with_Code, RNN]
@@ -20,7 +20,7 @@ math: true
 
 如果非洲大蜗牛的位置和自行车的轨迹都是随机的，且不变的，那么自行车撞到非洲大蜗牛的概率是多少？
 
-
+After the Rain: 
 
 
 
